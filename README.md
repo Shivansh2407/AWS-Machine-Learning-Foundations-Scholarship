@@ -5,7 +5,7 @@ AWS and Udacity are collaborating to educate developers of all skill levels on m
 
 Feeling stuck amidst the course? Feel free to refer this repository or reach out to me on Slack!
 
-✨| Udacity SUSE Cloud Native Fundamentals Scholarship Program Nanodegree Program | Status
+✨| Udacity AWS Machine Learning Foundations Nanodegree Program | Status
 --- | ---| ---
 1 | Welcome to the AWS Machine Learning Foundations Course | &#9744;
 2 | Introduction to Machine Learning |  &#9744;
