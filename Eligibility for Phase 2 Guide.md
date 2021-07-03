@@ -8,6 +8,7 @@
    * Exercises
 
 * There is no built-in way in Udacity to check if you have 100% on all of the lessons, videos, quizzes, and exercises so you should do a manual re-check to confirm
+* Students will be evaluated based on successful completion of lessons in Phase 1 in addition to their online assessment quiz performance.
 
 2. **Scoring from online assessment quiz submitted by the October 11th, 2021 @ 11:59 PM PT**
    * You must score 45 out of 50 points or higher (90% or above)
@@ -17,6 +18,9 @@
 
 * How fast you finish the course or the assessment quiz will have no bearing whatsoever to your eligibility
 * Participation in the AWS Slack Community does not increase your chances to be picked for Phase 2
+
+### Results to be announced by the OCTOBER 21, 2021 
+    *AWS Machine Learning Engineer Scholarship Program Scholarship winners to be announced.
 
 ### Online assessment quiz additional information
 * The quiz can only be taken ONCE
@@ -33,6 +37,7 @@
 * Resume review from AWS (needs further confirmation)
 * You will be able to pursue the AWS Machine Learning Engineer Nanodegree Program and work with 3 projects
 * If you finish Phase 2, you will be awarded with a Nanodegree certificate
+* The scholarships awarded in Phase 2 will be for Udacity’s popular AWS Machine Learning Engineer Nanodegree program featuring new and refreshed content.
 
 ### Miscellaneous information
 * There are over 50,000 participants currently
