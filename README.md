@@ -20,6 +20,8 @@ Feeling stuck amidst the course? Feel free to refer this repository or reach out
  &#9746; Means that the particular Chapter is under progress 👨‍💻 <br>
  &#9745; Means that the particular Chapter is completed 🎉
  
+ ## Eligibility for Phase 2
+ The Eligibility for Phase 2 of this Scholarship is described [here](https://github.com/Shivansh2407/AWS-Machine-Learning-Foundations-Scholarship/blob/main/Eligibility%20for%20Phase%202%20Guide.md).
  
  ## Want to Contribute?
  Fork the repo and send PRs.
