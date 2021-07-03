@@ -21,6 +21,17 @@ Feeling stuck amidst the course? Feel free to refer this repository or reach out
  &#9745; Means that the particular Chapter is completed 🎉
  
  
+ ## How does this scholarship program work?
+ # Phase 1: Scholarship Foundations Course
+ # Phase 2: Full Scholarship for a Udacity Nanodegree program
+
+## Are there any non-technical prerequisites or costs associated with this program?
+* Both the foundations course and Nanodegree program will require performing tasks in the AWS console on an active AWS account. 
+* Learners will need to submit a credit card on file with AWS to create an AWS account. 
+* The required exercise can be completed using AWS Free Tier services. 
+* Learners may incur a cost if they complete the optional exercise.
+ 
+ 
  ## Want to Contribute?
  Fork the repo and send PRs.
  
