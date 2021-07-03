@@ -20,7 +20,7 @@
 * Participation in the AWS Slack Community does not increase your chances to be picked for Phase 2
 
 ### Results to be announced by the OCTOBER 21, 2021 
-    *AWS Machine Learning Engineer Scholarship Program Scholarship winners to be announced.
+* AWS Machine Learning Engineer Scholarship Program Scholarship winners to be announced.
 
 ### Online assessment quiz additional information
 * The quiz can only be taken ONCE
