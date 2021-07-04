@@ -7,7 +7,7 @@ Open for Contributions! Please Fork and Star the Repository, and start sending i
 | Details | Date |
 | ------ | ------ |
 | Challenge Start Date | 28-June-2021 |
-| Challenge End Date | 1-October-2021 |
+| Challenge End Date | 11-October-2021 |
 
 #### Official Links
 
