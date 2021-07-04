@@ -15,6 +15,6 @@ Open for Contributions! Please Fork and Star the Repository, and start sending i
 * [Page for Latest events](https://sites.google.com/udacity.com/awsmachinelearningchallenge/home)
 * [FAQ](https://sites.google.com/udacity.com/awsmachinelearningchallenge/faqs)
 * Recommended Pre-requisite Courses:
-    * [ Intro to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+    * [Intro to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
     * [Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120)
     * [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
