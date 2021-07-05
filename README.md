@@ -21,8 +21,8 @@ Feeling stuck amidst the course? Feel free to refer this repository or reach out
  &#9745; Means that the particular Chapter is completed 🎉
  
  ## How does this scholarship program work?
- ### Phase 1: Scholarship Foundations Course
- ### Phase 2: Full Scholarship for a Udacity Nanodegree program
+ * Phase 1: Scholarship Foundations Course
+ * Phase 2: Full Scholarship for a Udacity Nanodegree program
 
  ## Eligibility for Phase 2
  The Eligibility for Phase 2 of this Scholarship is described [here](https://github.com/Shivansh2407/AWS-Machine-Learning-Foundations-Scholarship/blob/main/Eligibility%20for%20Phase%202%20Guide.md).
